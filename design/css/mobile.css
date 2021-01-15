@@ -1,0 +1,17 @@
+body{
+  background-color: hsl(204, 43%, 93%);
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+}
+
+.first-component{
+background-color: #ffffff;
+margin: 118px auto 0 auto;
+border-radius: 10px 10px 0 0;
+position: relative;
+  width: 512px;
+  height: 10.625em;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
